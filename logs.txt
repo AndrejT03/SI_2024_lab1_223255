@@ -1,0 +1,37 @@
+commit 26bb993ec409cd90d774f34cd44befdd7ed65894 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: AndrejT03 <164937981+AndrejT03@users.noreply.github.com>
+Date:   Mon Apr 1 21:12:14 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+    Fixed the conflict manually.
+
+commit cb412ecddf2d0e12943ec4a0d21ac7320f61d8ef
+Author: AndrejT03 <164937981+AndrejT03@users.noreply.github.com>
+Date:   Mon Apr 1 21:09:56 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 054cc725c68741fd9aac49699cc3c978a7deb03d (origin/bug1, bug1)
+Author: AndrejT03 <164937981+AndrejT03@users.noreply.github.com>
+Date:   Mon Apr 1 21:11:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 3955c3d361109c6072b7800f428e040d593ab877
+Author: AndrejT03 <164937981+AndrejT03@users.noreply.github.com>
+Date:   Mon Apr 1 21:09:09 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit afee158565a84a3b6e0d60f24396b89fef10d36f
+Author: AndrejT03 <164937981+AndrejT03@users.noreply.github.com>
+Date:   Mon Apr 1 21:07:14 2024 +0200
+
+    Add starter code
+
+commit 8169027258b52f4753d80af6a786c04ea500f22c
+Author: AndrejT03 <164937981+AndrejT03@users.noreply.github.com>
+Date:   Mon Apr 1 21:06:01 2024 +0200
+
+    Initial commit
